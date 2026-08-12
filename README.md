@@ -1,2 +1,3 @@
-# IWMThings
-Somethings for game I Wanna Maker
+# `IWMThings` - Map
+---
+Maps for game I Wanna Maker
